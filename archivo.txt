@@ -1,4 +1,8 @@
 Mi primer commit 
 Mi segundo commit
 Tercer commit
+<<<<<<< HEAD
 Cuarta linea desde local
+=======
+Cuarta linea remoto
+>>>>>>> c42a0a05d11dc3b68a5122448d3cdc208b3c44d0
